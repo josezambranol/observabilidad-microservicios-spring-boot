@@ -1,6 +1,6 @@
 # Taller de Observabilidad Básica de Microservicios con Spring Boot Actuator y Micrometer
 
-* **Asignatura:** Sistemas Distribuidos
+* **Asignatura:** ELECTIVA I
 * **Estudiante:** **JOSE DANIEL ZAMBRANO LUNA**
 * **Modalidad:** Práctica guiada / Laboratorio de Observabilidad
 * **Tecnologías:** Java 21 LTS | Spring Boot 3.4.1 | Spring Boot Actuator | Micrometer | Apache Maven 3.9
@@ -364,4 +364,4 @@ Exponer endpoints de Actuator con detalles (`show-details=always`) de forma púb
 
 ---
 
-*Desarrollado por Jose Daniel Zambrano Luna - Sistemas Distribuidos*
+*Desarrollado por Jose Daniel Zambrano Luna - ELECTIVA I*
